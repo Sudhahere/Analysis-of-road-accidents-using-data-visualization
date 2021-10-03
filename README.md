@@ -1,6 +1,6 @@
 # Analysis of road accidents using data visualization
-<b>1.INTRODUCTION</b>
-<b>1.1 ABSTRACT</b>
+<b>1.INTRODUCTION</b><br>
+<b>1.1 ABSTRACT</b><br>
 Roadway traffic safety is a major concern for transportation governing agencies as well as
 ordinary citizens. In order to give safe driving suggestions, careful analysis of roadway traffic
 data is critical to find out variables that are closely related to fatal accidents. The relationship
